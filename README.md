@@ -24,7 +24,9 @@ The Book Search Engine is a full-stack web application that allows users to sear
    npm run develop
    ```
 
-## Deployed Site
+## Deployed Page
+
+<img width="1186" alt="Image" src="https://github.com/user-attachments/assets/378dcd81-33b8-4c8f-9351-d21167d9390e" />
 
 
 
